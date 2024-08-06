@@ -1,2 +1,1 @@
-# tokenizer
-preprocessing of all kinds for various modalities, individually and combined
+Tokenizers and embeddings (basically all preprocessing needed) for text, image, video, audio, embodied (robotics), and miscellaneous modalities. 
